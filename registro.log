@@ -1,0 +1,65 @@
+2026-10-31 17:47:39 - Cliente registrado correctamente.
+2026-10-31 18:00:28 - Cliente registrado correctamente.
+2026-10-31 18:00:28 - Error al registrar cliente: El objeto debe ser un cliente.
+2026-10-31 18:23:21 - Cliente registrado: yesic
+2026-10-31 18:23:39 - Cliente registrado: yesic
+2026-10-31 18:25:50 - Cliente registrado: marcos
+2026-10-31 18:32:14 - Cliente registrado: yesi
+2026-10-31 18:32:46 - Cliente registrado: mar montes
+2026-10-31 18:37:40 - Cliente registrado: yesi
+2026-10-31 18:38:12 - Cliente registrado: martinez
+2026-10-31 18:38:19 - Cliente registrado: martinez
+2026-10-31 18:38:49 - Servicio registrado: prestamos
+2026-10-31 18:39:23 - Servicio registrado: adquisiscion de computadores
+2026-10-31 19:18:30 - Cliente registrado: marivel
+2026-10-31 19:20:04 - Cliente registrado: YESICA
+2026-10-31 19:20:22 - Servicio registrado: COMPUTADORES
+2026-10-31 19:20:33 - Reserva registrada: 1
+2026-10-31 19:25:03 - Cliente registrado: yesica
+2026-10-31 19:25:26 - Servicio registrado: prestamos bancarios
+2026-10-31 19:25:42 - Reserva registrada: 2
+2026-10-31 19:35:27 - Cliente registrado: yesica perez
+2026-10-31 19:36:20 - Cliente registrado: marivel
+2026-10-31 19:36:40 - Servicio registrado: asesoria
+2026-10-31 19:37:02 - Servicio registrado: computador
+2026-10-31 19:37:19 - Reserva registrada: 1
+2026-10-31 19:37:33 - Reserva registrada: 2
+2026-10-31 20:26:38 - Cliente registrado: yesica
+2026-10-31 20:27:05 - Cliente registrado: marivel torres
+2026-10-31 20:27:20 - Servicio registrado: ahorro
+2026-10-31 20:27:33 - Servicio registrado: bancaria
+2026-10-31 20:28:05 - Reserva registrada: 1
+2026-10-31 20:43:19 - Cliente registrado: yesi
+2026-10-31 20:43:39 - Cliente registrado: yesi
+2026-10-31 20:43:55 - Servicio registrado: computadores
+2026-10-31 20:44:11 - Servicio registrado: asesoria juridica
+2026-10-31 20:44:36 - Reserva registrada: 1
+2026-10-31 20:46:20 - Reserva registrada: 2
+2026-10-31 20:49:14 - Reserva registrada: 3
+2026-10-31 20:49:52 - Reserva registrada: 4
+2026-10-31 20:50:36 - Reserva registrada: 5
+2026-11-15 11:30:53 - EVENTO: Cliente registrado correctamente.
+2026-11-15 11:30:53 - EVENTO: Cliente registrado: yesica
+2026-11-15 11:31:43 - EVENTO: Servicio registrado correctamente.
+2026-11-15 11:31:43 - EVENTO: Servicio registrado: movil
+2026-11-15 11:32:38 - EVENTO: Reserva registrada correctamente.
+2026-11-15 11:32:38 - EVENTO: Reserva registrada: 1
+2026-11-15 11:34:12 - EVENTO: Reserva registrada correctamente.
+2026-11-15 11:34:12 - EVENTO: Reserva registrada: 2
+2026-11-15 13:23:38 - EVENTO: Cliente registrado correctamente.
+2026-11-15 13:23:38 - EVENTO: Cliente registrado: marivel
+2026-11-15 13:24:17 - EVENTO: Servicio registrado correctamente.
+2026-11-15 13:24:17 - EVENTO: Servicio registrado: HELADOS
+2026-11-15 13:24:37 - EVENTO: Reserva registrada correctamente.
+2026-11-15 13:24:37 - EVENTO: Reserva registrada: 1
+2026-11-15 13:24:49 - EVENTO: Reserva confirmada correctamente.
+2026-11-15 13:24:54 - EVENTO: Reserva cancelada correctamente.
+2026-11-15 13:31:32 - EVENTO: Cliente registrado correctamente.
+2026-11-15 13:31:32 - EVENTO: Cliente registrado: yesica perez
+2026-11-15 13:31:54 - EVENTO: Servicio registrado correctamente.
+2026-11-15 13:31:54 - EVENTO: Servicio registrado: bancaria
+2026-11-15 13:32:36 - EVENTO: Reserva registrada correctamente.
+2026-11-15 13:32:36 - EVENTO: Reserva registrada: 1
+2026-11-15 13:33:49 - EVENTO: Reserva confirmada correctamente.
+2026-11-15 13:34:36 - EVENTO: Reserva procesada correctamente.
+2026-11-15 13:36:19 - ERROR: Error al registrar cliente: El correo no es válido.
