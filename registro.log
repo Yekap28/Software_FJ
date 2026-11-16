@@ -63,3 +63,16 @@
 2026-11-15 13:33:49 - EVENTO: Reserva confirmada correctamente.
 2026-11-15 13:34:36 - EVENTO: Reserva procesada correctamente.
 2026-11-15 13:36:19 - ERROR: Error al registrar cliente: El correo no es válido.
+2026-11-16 15:33:46 - EVENTO: Cliente registrado correctamente.
+2026-11-16 15:33:46 - EVENTO: Cliente registrado: marlos quesada
+2026-11-16 15:34:29 - EVENTO: Servicio registrado correctamente.
+2026-11-16 15:34:29 - EVENTO: Servicio registrado: prestamos
+2026-11-16 15:35:28 - EVENTO: Reserva registrada correctamente.
+2026-11-16 15:35:28 - EVENTO: Reserva registrada: 1
+2026-11-16 15:49:51 - EVENTO: Cliente registrado correctamente.
+2026-11-16 15:49:51 - EVENTO: Cliente registrado: DIEGO ALVAREZ
+2026-11-16 15:50:21 - EVENTO: Servicio registrado correctamente.
+2026-11-16 15:50:21 - EVENTO: Servicio registrado: ADQUIRIR NUEVO PRODUCTO
+2026-11-16 15:50:41 - EVENTO: Reserva registrada correctamente.
+2026-11-16 15:50:41 - EVENTO: Reserva registrada: 1
+2026-11-16 15:51:09 - ERROR: Error al procesar reserva: La reserva debe estar confirmada.

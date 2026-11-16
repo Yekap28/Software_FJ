@@ -3,6 +3,7 @@ from sistema import SistemaGestion
 from registro import registrar_evento, registrar_error
 from servicios import ReservaSala, AlquilerEquipo, Asesoria
 from reservas import Reserva
+from excepciones import ErrorSistema
 
 import tkinter as tk
 from tkinter import messagebox
@@ -280,7 +281,7 @@ class Aplicacion:
                 "Reserva registrada correctamente."
             )
 
-        except ValueError as error:
+        except (ValueError, ErrorSistema) as error:
             registrar_error(f"Error al registrar reserva: {error}")
             messagebox.showerror("Error", str(error))
 
@@ -524,7 +525,7 @@ class Aplicacion:
                 "Reserva confirmada correctamente."
             )
 
-        except ValueError as error:
+        except (ValueError, ErrorSistema) as error:
             registrar_error(f"Error al confirmar reserva: {error}")
             messagebox.showerror("Error", str(error))
 
@@ -541,7 +542,7 @@ class Aplicacion:
                 "Reserva cancelada correctamente."
             )
 
-        except ValueError as error:
+        except (ValueError, ErrorSistema) as error:
             registrar_error(f"Error al cancelar reserva: {error}")
             messagebox.showerror("Error", str(error))
 
@@ -559,7 +560,7 @@ class Aplicacion:
                 f"Costo total: ${costo:,.2f}"
             )
 
-        except ValueError as error:
+        except (ValueError, ErrorSistema) as error:
             registrar_error(f"Error al procesar reserva: {error}")
             messagebox.showerror("Error", str(error))
 
